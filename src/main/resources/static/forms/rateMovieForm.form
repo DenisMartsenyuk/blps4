@@ -1,0 +1,33 @@
+{
+  "components": [
+    {
+      "label": "ID фильма",
+      "type": "textfield",
+      "id": "Field_0o4zxmu",
+      "key": "movieId",
+      "description": "Введите id фильма",
+      "validate": {
+        "required": true
+      }
+    },
+    {
+      "label": "Оценка",
+      "type": "textfield",
+      "id": "Field_1hdzlah",
+      "key": "movieRate",
+      "description": "Введите оценку",
+      "validate": {
+        "required": true
+      }
+    }
+  ],
+  "type": "default",
+  "id": "Form_1xhebnh",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.0.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.17.0",
+  "schemaVersion": 4
+}

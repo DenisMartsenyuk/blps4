@@ -1,0 +1,5 @@
+spring:
+  activemq:
+    broker-url: mqtt://localhost:1883
+    user: admin
+    password: admin

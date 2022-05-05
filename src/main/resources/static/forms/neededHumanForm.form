@@ -1,0 +1,19 @@
+{
+  "components": [
+    {
+      "label": "Добавить еще человека ",
+      "type": "checkbox",
+      "id": "Field_1etdw1i",
+      "key": "neededHuman"
+    }
+  ],
+  "type": "default",
+  "id": "neededHumanForm",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.0.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.17.0",
+  "schemaVersion": 4
+}

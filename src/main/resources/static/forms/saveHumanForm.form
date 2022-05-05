@@ -1,0 +1,34 @@
+{
+  "components": [
+    {
+      "label": "Имя",
+      "type": "textfield",
+      "id": "Field_0izlmkf",
+      "key": "humanName",
+      "description": "Введите имя",
+      "validate": {
+        "required": true
+      },
+      "disabled": false
+    },
+    {
+      "label": "Фамилия",
+      "type": "textfield",
+      "id": "Field_172a69z",
+      "key": "humanSurname",
+      "validate": {
+        "required": true
+      },
+      "description": "Введите фамилию"
+    }
+  ],
+  "type": "default",
+  "id": "save-country-form",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.0.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.17.0",
+  "schemaVersion": 4
+}

@@ -1,0 +1,19 @@
+{
+  "components": [
+    {
+      "label": "Добавить еще страну ",
+      "type": "checkbox",
+      "id": "Field_1etdw1i",
+      "key": "neededCountry"
+    }
+  ],
+  "type": "default",
+  "id": "neededCountryForm",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.0.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.17.0",
+  "schemaVersion": 4
+}
